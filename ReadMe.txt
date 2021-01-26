@@ -1,0 +1,2 @@
+3 qr libraries for .net
+My recommendation is to use ZXing because it calculates the best QRCode verion (size) for your string and because it has a mobile library that can be used with Xamarin for decoding.

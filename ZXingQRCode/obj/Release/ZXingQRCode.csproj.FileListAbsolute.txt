@@ -1,0 +1,14 @@
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\QRCode\ZXingQRCode\bin\Release\ZXingQRCode.exe.config
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\QRCode\ZXingQRCode\bin\Release\ZXingQRCode.exe
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\QRCode\ZXingQRCode\bin\Release\ZXingQRCode.pdb
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\QRCode\ZXingQRCode\bin\Release\zxing.dll
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\QRCode\ZXingQRCode\bin\Release\zxing.presentation.dll
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\QRCode\ZXingQRCode\bin\Release\zxing.pdb
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\QRCode\ZXingQRCode\bin\Release\zxing.xml
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\QRCode\ZXingQRCode\bin\Release\zxing.presentation.pdb
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\QRCode\ZXingQRCode\bin\Release\zxing.presentation.xml
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\QRCode\ZXingQRCode\obj\Release\ZXingQRCode.csprojAssemblyReference.cache
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\QRCode\ZXingQRCode\obj\Release\ZXingQRCode.csproj.CoreCompileInputs.cache
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\QRCode\ZXingQRCode\obj\Release\ZXingQRCode.csproj.CopyComplete
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\QRCode\ZXingQRCode\obj\Release\ZXingQRCode.exe
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\QRCode\ZXingQRCode\obj\Release\ZXingQRCode.pdb
